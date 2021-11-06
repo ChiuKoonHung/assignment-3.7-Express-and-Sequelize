@@ -1,0 +1,26 @@
+{
+  "name": "lesson-3.6-sequelize",
+  "version": "1.0.0",
+  "description": "## Brief",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.6-sequelize.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.6-sequelize/issues"
+  },
+  "homepage": "https://github.com/Skills-Union-NTU-SDI-Program/lesson-3.6-sequelize#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5"
+  }
+}
